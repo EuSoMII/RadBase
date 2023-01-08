@@ -12,7 +12,7 @@ Until then all data is collected in the CSV-file of this repository. You can eit
 
 ### Accessing the CSV file directly in R
 
-```{R}
+```R
 library(tidyverse)
 library(janitor)
 library(curl)
