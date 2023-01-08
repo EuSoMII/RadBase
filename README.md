@@ -8,7 +8,7 @@ All researchers interested in this field are welcome to join our efforts and con
 
 We are currently compiling a list of previously published radiomics studies along with relevant metadata. Some time in the future this might be made available in a more comprehensive database.
 
-Until then all data is collected in the CSV-file of this repository. You can either download the file or access it directly from your software.
+Until then all data is collected in the (`;`-separated) CSV-file of this repository. You can either download the file or access it directly from your software.
 
 ### Accessing the CSV file directly in R
 
