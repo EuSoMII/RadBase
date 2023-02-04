@@ -17,6 +17,6 @@ library(tidyverse)
 library(janitor)
 library(curl)
 
-raw_csv <- curl("https://raw.github.com/EuSoMII/Radiomics/master/test.csv")
+raw_csv <- curl("https://raw.github.com/EuSoMII/RadBase/master/RadBase.csv")
 df <- read_csv2(raw_csv) %>% clean_names()
 ```
