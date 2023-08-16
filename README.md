@@ -4,6 +4,8 @@ Welcome to the official repository of the EuSoMII Radiomics Auditing Initiative.
 
 All researchers interested in this field are welcome to join our efforts and contribute. Please contact one of the members for further details.
 
+If you find this repository useful for your research, please consider citing our paper: Akinci D’Antonoli, T., Cuocolo, R., Baessler, B. et al. Towards reproducible radiomics research: introduction of a database for radiomics studies. Eur Radiol (2023). https://doi.org/10.1007/s00330-023-10095-3
+
 ## Radiomics reproducibility
 
 We are currently compiling a list of previously published radiomics studies along with relevant metadata. Some time in the future this might be made available in a more comprehensive database.
